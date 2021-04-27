@@ -8,3 +8,4 @@ git pull origin master --allow-unrelated-histories
 origin：当前仓库地址
 master:仓库的分支  
 哈哈哈
+ghjkhj
